@@ -1,1 +1,1 @@
-This repository contains books used as a reference for datascience and machine learning
+This repository contains books used as a reference for Data Engineering, Data Science and Machine Learning.
